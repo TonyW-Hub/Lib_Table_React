@@ -1,7 +1,7 @@
 {
-  "name": "typescript-components-by-rupert",
+  "name": "fluid-table-react",
   "version": "1.0.0",
-  "description": "A simple component library to demonstrate publishing to npm",
+  "description": "A simple table react component",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf dist",
@@ -16,8 +16,7 @@
     "typescript"
   ],
   "author": {
-    "name": "Rupert Foggo McKay",
-    "url": "https://fildon.me/"
+    "name": "Anthony Warnault"
   },
   "license": "ISC",
   "bugs": {

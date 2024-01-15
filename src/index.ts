@@ -1,1 +1,1 @@
-export { Counter } from "./counter";
+export { Table, ColumnType } from "./Table/Table";
