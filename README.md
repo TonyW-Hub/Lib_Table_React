@@ -1,19 +1,15 @@
-# TypeScript Components by Rupert
-
-This repository was created as part of a guide to publishing TypeScript React components. You can read the guide over here: [Publishing TypeScript React components to NPM](https://fildon.hashnode.dev/publishing-typescript-react-components-to-npm)
-
-## Getting Started
+# Getting Started
 
 Install this package:
 
 ```shell
-npm add typescript-components-by-rupert
+npm add fluid-table-react
 ```
 
-Import the Counter component:
+Import the Table component:
 
 ```js
-import { Counter } from "typescript-components-by-rupert";
+import { Table, ColumnType } from "fluid-table-react";
 ```
 
-You can then render the `Counter` component like any other React component in JSX.
+You can then render the `Table` component like any other React component in JSX.
